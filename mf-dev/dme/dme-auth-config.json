@@ -3,7 +3,7 @@
    "api": "http://localhost:8083/api",
    "keycloak": {
       "url": "https://idm.dev-digital-enabler.eng.it/auth",
-      "clientId": "dme-v2-local",
+      "clientId": "dme-v2-app-public",
       "enabled": true
    }
 }
