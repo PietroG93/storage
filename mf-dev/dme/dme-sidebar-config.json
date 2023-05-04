@@ -2,7 +2,7 @@
    "mf": "Sidebar",
    "api": "http://localhost:8083/api",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-   "jsonTools": "https://raw.githubusercontent.com/imolnar92/storage/main/mf-dev/common/services.json",
+   "jsonTools": "https://raw.githubusercontent.com/PietroG93/storage/main/mf-dev/common/services.json",
    "links": [
       {
          "title": "labels.mashups",
